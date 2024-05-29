@@ -1,11 +1,17 @@
-## boas vindasao meu perfil ♟️
+Bem-vindo ao meu perfil ♟️
 
-meu nome é Henrique Volonte
+Olá! Sou Henrique Volonte, um entusiasta da tecnologia e amante do desenvolvimento web.
 
-- Estou estudando na alura
-- Estou me desenvolvendo na linguagem JaveScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+💻 Estudante dedicado na Alura
 
-- ### você pode entrar em contato comigo 📫
+🚀focado em JavaScript para criar experiências digitais incríveis.
 
-- volontehenrique@gmail.com
+🌱 Aberto a novas tecnologias e conceitos.
+
+📂 Compartilho projetos pessoais e colaborativos aqui no GitHub.
+
+Contato 📫
+✉️ volontehenrique@gmail.com
+
+
+  ![](https://media1.tenor.com/m/A15H8E1VUh8AAAAC/github-cat.gif)
